@@ -1,2 +1,11 @@
 # datawrangling_final
-Final project for data wrangling 
+Data Wrangling FA 2022 Final Project
+
+
+Introduction:
+
+
+Process:
+
+
+Concluding Thoughts:
